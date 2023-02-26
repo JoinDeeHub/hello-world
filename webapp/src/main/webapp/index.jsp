@@ -31,7 +31,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thankyou, Amadeus </h1>
+   <h1> Thankyou, Amadeus IT Group </h1>
 
   
 </form>
